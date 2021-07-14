@@ -56,7 +56,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size:13px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/img/rua-do-medo-netflix-1.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/rua-do-medo-netflix-1.jpg');
 
     height: 700px;
     background-size: cover;
