@@ -5,3 +5,5 @@
 ### No meu caso escolhi fazer uma página dedicada somente aos filmes de terror.
 
 #### Página recriada:
+
+<img src = "img/netflix.jpg">
